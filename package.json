@@ -1,5 +1,5 @@
 {
-  "name": "nick9822/cryptofont",
+  "name": "cryptofont",
   "version": "2.3.0",
   "description": "CryptoBase Currency Icon Font and CSS for OpenDAX platform",
   "main": "./dist/index.js",
